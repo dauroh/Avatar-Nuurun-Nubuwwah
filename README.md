@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/avatarnuurun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avatarnuurun" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/avatarnuurunnubuwwah1357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="avatar nuurun nubuwwah" height="30" width="40" /></a>
+<a href="[https://https://www.youtube.com/channel/UCoZI0P65qHr8Ocn0INijm5A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="avatar nuurun nubuwwah" height="30" width="40" /></a>
 <a href="https://discord.gg/2Rnq8NfrYH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2962" height="30" width="40" /></a>
 </p>
 
